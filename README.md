@@ -1,6 +1,6 @@
 # Overview
 
-[Software Demo Video] https://youtu.be/LB_O0ftHpR0
+Demonstration: https://youtu.be/LB_O0ftHpR0
 
 # Cloud Database
 
@@ -8,28 +8,7 @@ I used MongoDB.
 
 DB Structure: 
 
-const noteSchema = new mongoose.Schema({
-    title: {
-        type: String,
-        required: true,
-    },
-    description: {
-        type: String,
-    },
-    text: {
-        type: String,
-        required: true
-    },
-    date: {
-        type: Date,
-        default: Date.now
-    },
-    slug: {
-        type: String,
-        required: true
-    }
-});
-
+Each note has a title, optional description, and text
 
 # Development Environment
 
