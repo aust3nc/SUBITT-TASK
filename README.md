@@ -1,6 +1,6 @@
 # Overview
 
-[Demonstration:](https://youtu.be/LB_O0ftHpR0)
+[Demonstration](https://youtu.be/LB_O0ftHpR0)
 
 # Cloud Database
 
